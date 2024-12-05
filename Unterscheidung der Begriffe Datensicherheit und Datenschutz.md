@@ -9,9 +9,6 @@ Das Ziel ist, sicherzustellen, dass die Daten **vertraulich**, **unverändert** 
 - Daten verschlüsseln  
 - Regelmäßige Backups machen  
 
-**Zusammengefasst:**  
-Datensicherheit schützt **alle Daten**, egal ob persönliche oder allgemeine Daten.
-
 ---
 
 ## Datenschutz  
@@ -23,12 +20,3 @@ Ohne die Erlaubnis der Person dürfen diese Daten nicht gesammelt, gespeichert o
 - Zustimmung einholen, bevor persönliche Daten gespeichert werden  
 - Daten anonymisieren  
 - Gesetze wie die DSGVO beachten  
-
-**Zusammengefasst:**  
-Datenschutz schützt die **persönlichen Daten** von Menschen.
-
----
-
-## Unterschied einfach erklärt:
-- **Datensicherheit:** Schützt die **Daten** selbst (vor Hackern, Viren usw.).  
-- **Datenschutz:** Schützt die **Person** hinter den Daten (vor Missbrauch ihrer Daten).
