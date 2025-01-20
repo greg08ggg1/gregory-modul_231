@@ -7,7 +7,7 @@ Das Ziel ist, sicherzustellen, dass die Daten **vertraulich**, **unverändert** 
 ### Beispiele für Datensicherheit:
 - Passwörter nutzen  
 - Daten verschlüsseln  
-- Regelmäßige Backups machen  
+- Regelmässige Backups machen  
 
 ---
 
