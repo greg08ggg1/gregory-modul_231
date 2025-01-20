@@ -26,7 +26,7 @@ Mein Ziel ist es, den Ordner "TBZ" auf meinem Laptop in meinem privaten Google D
 Ich habe Duplicati von der offiziellen Webseite heruntergeladen und installiert. Danach habe ich es mit meinem Google Drive verbunden, indem ich mein Google-Konto verbunden habe.
 
 **b) Ziel sichern:**  
-Ich habe den Ordner "TBZ" ausgewählt und die Sicherung eingestellt. Die Dateien werden nun regelmäßig verschlüsselt und auf meinem Google Drive gesichert.
+Ich habe den Ordner "TBZ" ausgewählt und die Sicherung eingestellt. Die Dateien werden nun regelmässig verschlüsselt und auf meinem Google Drive gesichert.
 
 **c) Probleme:**  
-Es gab keine größeren Probleme. Falls ich auf etwas gestoßen wäre, hätte ich eine Suchmaschine verwendet oder einen Kollegen gefragt.
+Es gab keine grösseren Probleme. Falls ich auf etwas gestossen wäre, hätte ich eine Suchmaschine verwendet oder einen Kollegen gefragt.
