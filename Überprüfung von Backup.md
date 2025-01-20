@@ -8,7 +8,7 @@ Ich werde folgende Sachen machen, um mein Backup zu prüfen:
 
 - **Log-Files anschauen**: Ich checke, ob Fehler in den Log-Dateien sind. Wenn welche da sind, wie z.B. fehlende Dateien, kümmere ich mich darum.
   
-- **Größe vom Backup prüfen**: Ich schaue, ob die Größe vom Backup normal ist. Wenn das Backup sehr klein ist, gucke ich, ob alle wichtigen Dateien da sind.
+- **Grösse vom Backup prüfen**: Ich schaue, ob die Grösse vom Backup normal ist. Wenn das Backup sehr klein ist, gucke ich, ob alle wichtigen Dateien da sind.
 
 - **Wiederherstellung testen**: Ich mache einen Test, um sicherzustellen, dass ich die Dateien wiederherstellen kann. Dabei achte ich auf:
   - Wohin die Dateien wiederhergestellt werden sollen.
